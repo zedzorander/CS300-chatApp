@@ -6,13 +6,6 @@ public class ChatterTree {
 	
 	ChatterTree(){
 		root = null;
-		/*recAddChatter("zedzorander", "eabfd", root);
-		recAddChatter("cassidyjones", "shit", root);
-		recAddChatter("poopybutt", "fuck", root);
-		recAddChatter("shitfuck", "hello", root);
-		recAddChatter("thundercunt", "lettuce", root);
-		recAddChatter("metallica", "password", root);
-		*/
 	}
 	
 	ChatterTree(Chatter newChatter){
